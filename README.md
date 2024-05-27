@@ -48,7 +48,3 @@ To train the model, simply run the provided code. Make sure to replace `DATA_URL
 
 •  numpy
 
-
-## Acknowledgements
-
-This implementation is based on the UNet architecture originally designed for biomedical image segmentation. We thank the creators of the Carvana Image Masking Challenge for providing the dataset.
